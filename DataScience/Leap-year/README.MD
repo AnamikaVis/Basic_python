@@ -5,13 +5,17 @@ except every year that is evenly divisible by 100 with no remainder
 unless the year is also divisible by 400 with no remainder.
 
 #Example Input 1
+
 2400
 
 #Example Output 1
+
 Leap year
 
 #Example Input 2
+
 1989
 
 #Example Output 2
+
 Not leap year
