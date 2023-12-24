@@ -14,12 +14,14 @@ Add pepperoni for medium or large pizza (Y or N): +$3
 Add extra cheese for any size pizza (Y or N): +$1
 
 
-Example Input
+Example Input :
+
 L
 Y
 N
 
 
-Example Output
+Example Output :
+
 Thank you for choosing Python Pizza Deliveries!
 Your final bill is: $28.
