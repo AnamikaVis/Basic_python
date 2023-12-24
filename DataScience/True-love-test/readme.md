@@ -88,25 +88,53 @@ ________________________________________________________
 ________________________________________________________
 
 
-Brad Pitt	        Jennifer Aniston	         73
+Brad Pitt	        
+
+Jennifer Aniston	         
+
+73
 
 
-Prince William	  Kate Middleton	           67
+Prince William	  
+
+Kate Middleton	           
+
+67
 
 
-Ashton Kutcher	  Mila Kunis	               63
+Ashton Kutcher	  
+
+Mila Kunis	               
+
+63
 
 
-Angela Yu	        Jack Bauer	               53
+Angela Yu	        
+
+Jack Bauer	               
+
+53
 
 
-David Beckham	    Victoria Beckham	         45
+David Beckham	    
+
+Victoria Beckham	         
+
+45
 
 
-Mario	Princess    Peach	                     43
+Mario	Princess    
+
+Peach	                     
+
+43
 
 
-Kanye West	      Kim Kardashian	           42
+Kanye West	     
+
+Kim Kardashian	           
+
+42
 
 
 ________________________________________________________________________________________________________________
