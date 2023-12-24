@@ -46,16 +46,16 @@ Jennifer Aniston
 The Love Calculator is calculating your score...
 Your score is 73.
 ----------------------------------------------------------
-You can check your values against mine using this table:
+                       Table
 ----------------------------------------------------------
-Name 1	Name 2	Score
-Brad Pitt	Jennifer Aniston	73
-Prince William	Kate Middleton	67
-Ashton Kutcher	Mila Kunis	63
-Angela Yu	Jack Bauer	53
-David Beckham	Victoria Beckham	45
-Mario	Princess Peach	43
-Kanye West	Kim Kardashian	42
+Name 1	          Name 2	                   Score
+Brad Pitt	        Jennifer Aniston	         73
+Prince William	  Kate Middleton	           67
+Ashton Kutcher	  Mila Kunis	               63
+Angela Yu	        Jack Bauer	               53
+David Beckham	    Victoria Beckham	         45
+Mario	Princess    Peach	                     43
+Kanye West	      Kim Kardashian	           42
 ________________________________________________________________________________________________________________
 """
 print("The Love Calculator is calculating your score...")
